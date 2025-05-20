@@ -1,0 +1,123 @@
+ .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    body {
+        background-color: hsl(217, 54%, 11%);
+    }
+
+    .container {
+        background-color: hsl(216, 50%, 16%);
+        width:350px;
+        height:600px;
+        margin:auto;
+        border-radius:10px;
+        position: relative;
+        top:45px;
+        font-family: "Outfit", sans-serif;
+    }
+
+    .main-image {
+        width:310px;
+        height:295px;
+        border-radius:15px;
+        position: relative;
+        top:18px;
+        left:20px;
+    }
+
+    h3 {
+        position: relative;
+        left:20px;
+        top:8px;
+        color:hsl(0, 0%, 100%);
+        font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:600;
+  font-style: normal;
+    }
+
+    .para {
+        position: relative;
+        left:20px;
+        top:8px;
+        color:hsl(215, 51%, 70%);
+        font-family: "Outfit", sans-serif;
+         font-size:18px;
+     }
+        
+    .ethereum {
+        font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  color:hsl(178, 100%, 50%);
+  font-size: 16px;
+  position:relative;
+  left:15px;
+    }
+.mini-menu li {
+    display:inline-block;
+     
+
+text-align: justify;
+justify-content: space-evenly;
+}
+
+li:last-child {
+    padding-left:100px;
+    font-style: normal;
+  color:hsl(215, 51%, 70%);
+  font-weight:500;
+}
+li:first-child {
+    margin-left:-22px;
+    font-style: normal;
+  color: hsl(178, 100%, 50%);
+  font-weight:400;
+}
+
+.img1 {
+    position: relative;
+    top:4px;
+    padding:2px;
+}
+
+.img2 {
+    position: relative;
+    top:8px;
+    padding:5px;
+}
+
+hr{
+  border: 1px solid hsl(215, 51%, 70%);
+  width: 308px;
+  margin-top:35px;
+}
+
+.avatar-img {
+    width:30px;
+    height:30px;
+    border:solid 1px white;
+    border-radius: 50%;
+    position: relative;
+    left:25px;
+    top:18px;
+}
+
+.creator {
+    color:hsl(215, 51%, 70%);;
+}
+
+.name{
+    color:hsl(0, 0%, 100%);
+    padding-left:7px;
+}
+
+.name , .creator {
+    position: relative;
+    top:7px;
+    left:30px;
+    font-weight:400;
+  font-style: normal;
+  font-size: 12px;
+}
